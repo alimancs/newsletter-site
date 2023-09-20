@@ -1,0 +1,13 @@
+body {
+   background-color: white;
+}
+#successbody {
+    height:100vh;
+    place-content: center;
+}
+#sb {
+    margin-top: 210px;
+}
+#info {
+    margin-top: 30px;
+}

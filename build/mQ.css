@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    margin: 0px;
+}
+#body {
+    width:fit-content;
+    height:100vh;
+    margin: 0px;
+    background-color: white;
+    border-radius:17px;
+    display:flex;
+    flex-direction: column;
+    place-content: none;
+    padding: 0px;
+ }
+#imgm {
+    width:333px;
+    height:250px;
+    background-image: url(illustration-sign-up-mobile.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    place-self: center;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+ }
+#bodyimg  {
+    display:none;
+}
+#form {
+
+}
